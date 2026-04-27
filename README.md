@@ -15,3 +15,6 @@ What are they used for?
 
 Where can people find the rendered output of code run in this repository?
 
+
+The rendered pdf is [here](https://github.com/ncutner-alt/193dd-test-repo)
+
